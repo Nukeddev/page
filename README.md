@@ -9,17 +9,19 @@ It is the BETA version of my portfolio, based on the knowledge I have about web 
 <h1>
 <tt>> Updates</tt>
 </h1>
-<h2>
+<h4>
 26 - March - 2023
-</h2>
+</h4>
+
 - Creation of the Repository
 - File upload
-<h2>
+<h4>
 27 - March - 2023
-</h2>
-- Updated Categories
-  - Blog
+</h4>
+
+- README.me
+- Categories
+  - Aboout
   - Skills
   - Proyects
-  
-- README.me
+  - Blog
