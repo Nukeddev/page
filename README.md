@@ -25,3 +25,26 @@ It is the BETA version of my portfolio, based on the knowledge I have about web 
   - Skills
   - Proyects
   - Blog
+<h4>
+13 - June - 2023
+</h4>
+
+- Upload JS
+- Upload Logo
+- Index update
+- Deleted categories
+  - Projects
+  - Blog
+- Added category
+  - Contact
+
+
+
+
+
+
+
+<h5>
+© Sebstnp.
+</h5>
+- Personal page, the main idea and code are reserved.
